@@ -1,0 +1,35 @@
+
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 5px solid black;
+    height: 400px;
+    width: 90%;
+    margin: auto;
+    margin-top: 100px;
+    background-color: rgb(8, 100, 100);
+}
+
+.whiteBox{
+  height: 228px;
+  width: 20%;
+  border: 6px solid rgb(216, 210, 210);
+  margin: auto;
+
+}
+
+.imgBox img{
+    background-color: rgb(58, 57, 52);
+   width: 100%;
+   
+}
+
+.onHold{
+    border: 5px solid rgb(124, 16, 8);
+}
+
+.hide{
+    display: none;
+}
